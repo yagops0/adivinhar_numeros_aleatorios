@@ -1,0 +1,3 @@
+# ADIVINHAR_NUMEROS_ALEATORIOS
+
+- Computador deve esc
